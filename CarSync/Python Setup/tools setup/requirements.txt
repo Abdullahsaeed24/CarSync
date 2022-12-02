@@ -1,0 +1,25 @@
+numpy
+seaborn
+httplib2
+cv
+apiclient
+statistics
+matplotlib
+scipy
+math
+glob
+shutil
+mimetypes
+oauth2client
+apiclient.http
+datetime
+threading
+schedule
+win32gui
+win32con
+time
+--upgrade google-api-python-client
+pymap3d
+pandas
+imageio
+shapely

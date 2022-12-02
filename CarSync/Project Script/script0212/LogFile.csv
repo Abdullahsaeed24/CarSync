@@ -1,0 +1,891 @@
+2022-12-02,8:15:18,test1,test2
+2022-12-02,8:15:18,test1,test2
+2022-12-02,8:15:20,True,UPLOADING NEW FOLDER: FolderStructure_with_files in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:15:21,True,UPLOADING NEW FOLDER: TestSubfolder_1 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:15:23,True,UPLOADING NEW FOLDER: TestSubfolder_2 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:15:24,True,UPLOADING NEW FOLDER: TestSubfolder_3 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:15:26,True,UPLOADING NEW FOLDER: TestSubfolder_4 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:15:27,True,UPLOADING NEW FOLDER: TestSubfolder_5 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:15:28,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:15:34,test1,test2
+2022-12-02,8:15:34,test1,test2
+2022-12-02,8:15:37,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:15:44,True,UPLOADING NEW FILE: bigfile-1GB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:16:16,True,SUCCESSFUL UPLOAD: bigfile-1GB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:16:22,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:16:29,True,UPLOADING NEW FILE: bigfile-50MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:16:33,True,SUCCESSFUL UPLOAD: bigfile-50MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:16:39,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:16:46,True,UPLOADING NEW FILE: bigfile-100MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:16:51,True,SUCCESSFUL UPLOAD: bigfile-100MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:16:57,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:17:4,True,UPLOADING NEW FILE: EmptyFile.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:17:6,True,SUCCESSFUL UPLOAD: EmptyFile.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:17:29,test1,test2
+2022-12-02,8:17:29,test1,test2
+2022-12-02,8:17:30,True,UPLOADING NEW FOLDER: FolderStructure_with_files in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:17:32,True,UPLOADING NEW FOLDER: TestSubfolder_1 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:17:33,True,UPLOADING NEW FOLDER: TestSubfolder_2 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:17:34,True,UPLOADING NEW FOLDER: TestSubfolder_3 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:17:36,True,UPLOADING NEW FOLDER: TestSubfolder_4 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:17:37,True,UPLOADING NEW FOLDER: TestSubfolder_5 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:17:39,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:17:44,test1,test2
+2022-12-02,8:17:44,test1,test2
+2022-12-02,8:17:47,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:17:54,True,UPLOADING NEW FILE: bigfile-1GB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:18:31,True,SUCCESSFUL UPLOAD: bigfile-1GB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:18:37,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:18:44,True,UPLOADING NEW FILE: bigfile-100MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:18:49,True,SUCCESSFUL UPLOAD: bigfile-100MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:18:56,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:19:2,True,UPLOADING NEW FILE: bigfile-10MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:19:4,True,SUCCESSFUL UPLOAD: bigfile-10MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:19:11,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:19:17,True,UPLOADING NEW FILE: bigfile-500MB .csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:19:37,True,SUCCESSFUL UPLOAD: bigfile-500MB .csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:19:44,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:19:50,True,UPLOADING NEW FILE: EmptyFile.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:19:52,True,SUCCESSFUL UPLOAD: EmptyFile.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:19:59,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:20:5,True,UPLOADING NEW FILE: bigfile-50MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:20:9,True,SUCCESSFUL UPLOAD: bigfile-50MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:20:15,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:20:21,test1,test2
+2022-12-02,8:20:21,test1,test2
+2022-12-02,8:20:24,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:20:26,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:20:27,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:20:27,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:20:28,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:20:29,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:20:29,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:20:35,test1,test2
+2022-12-02,8:20:35,test1,test2
+2022-12-02,8:20:38,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:20:40,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:20:41,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:20:41,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:20:43,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:20:43,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:20:44,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:20:49,test1,test2
+2022-12-02,8:20:49,test1,test2
+2022-12-02,8:20:53,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:20:55,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:20:55,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:20:56,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:20:57,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:20:58,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:20:58,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:21:4,test1,test2
+2022-12-02,8:21:4,test1,test2
+2022-12-02,8:21:7,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:21:9,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:21:10,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:21:10,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:21:11,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:21:12,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:21:12,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:21:18,test1,test2
+2022-12-02,8:21:18,test1,test2
+2022-12-02,8:21:21,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:21:23,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:21:24,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:21:24,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:21:25,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:21:26,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:21:27,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:21:32,test1,test2
+2022-12-02,8:21:32,test1,test2
+2022-12-02,8:21:35,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:21:37,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:21:38,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:21:38,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:21:40,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:21:40,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:21:41,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:21:46,test1,test2
+2022-12-02,8:21:46,test1,test2
+2022-12-02,8:21:50,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:21:52,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:21:52,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:21:53,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:22:43,test1,test2
+2022-12-02,8:22:45,True,UPLOADING NEW FOLDER: FolderStructure_with_files in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:22:46,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:22:46,True,UPLOADING NEW FOLDER: TestSubfolder_1 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:22:48,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:22:48,True,UPLOADING NEW FOLDER: TestSubfolder_2 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:22:49,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:22:49,True,UPLOADING NEW FOLDER: TestSubfolder_3 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:22:50,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:22:51,True,UPLOADING NEW FOLDER: TestSubfolder_4 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:22:52,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:22:52,True,UPLOADING NEW FOLDER: TestSubfolder_5 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:22:53,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:22:54,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:22:59,test1,test2
+2022-12-02,8:23:2,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:23:9,True,UPLOADING NEW FILE: EmptyFile.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:23:11,True,SUCCESSFUL UPLOAD: EmptyFile.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:23:17,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:23:24,True,UPLOADING NEW FILE: bigfile-10MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:23:26,True,SUCCESSFUL UPLOAD: bigfile-10MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:23:33,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:23:39,True,UPLOADING NEW FILE: bigfile-50MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:23:43,True,SUCCESSFUL UPLOAD: bigfile-50MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:23:50,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:23:56,True,UPLOADING NEW FILE: bigfile-500MB .csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:24:14,True,SUCCESSFUL UPLOAD: bigfile-500MB .csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:24:20,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:24:27,True,UPLOADING NEW FILE: bigfile-1GB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:25:0,True,SUCCESSFUL UPLOAD: bigfile-1GB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:25:7,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:25:13,True,UPLOADING NEW FILE: bigfile-100MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:25:18,True,SUCCESSFUL UPLOAD: bigfile-100MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:25:24,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:25:30,test1,test2
+2022-12-02,8:25:33,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:25:34,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:25:34,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:25:35,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:25:36,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:25:38,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:25:38,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:25:44,test1,test2
+2022-12-02,8:25:47,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:25:47,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:25:48,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:25:48,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:25:49,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:25:51,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:25:52,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:25:57,test1,test2
+2022-12-02,8:26:0,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:26:1,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:26:1,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:26:2,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:26:3,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:26:5,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:26:6,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:26:11,test1,test2
+2022-12-02,8:26:14,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:26:15,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:26:15,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:26:16,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:26:17,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:26:18,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:26:19,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:26:24,test1,test2
+2022-12-02,8:26:28,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:26:28,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:26:29,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:26:29,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:26:30,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:26:32,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:26:33,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:26:38,test1,test2
+2022-12-02,8:26:41,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:26:42,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:26:42,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:26:43,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:26:44,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:26:46,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:26:46,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:26:52,test1,test2
+2022-12-02,8:26:55,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:26:55,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:26:56,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:26:56,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:26:58,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:26:59,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:27:0,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:27:5,test1,test2
+2022-12-02,8:27:8,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:27:9,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:27:9,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:27:10,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:27:11,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:27:13,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:27:14,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:27:19,test1,test2
+2022-12-02,8:27:22,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:27:23,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:27:23,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:27:24,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:27:25,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:27:27,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:27:27,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:27:33,test1,test2
+2022-12-02,8:27:36,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:27:36,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:27:37,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:27:37,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:27:38,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:27:40,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:27:41,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:27:46,test1,test2
+2022-12-02,8:27:49,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:27:50,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:27:50,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:27:51,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:27:52,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:27:54,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:27:54,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:28:0,test1,test2
+2022-12-02,8:28:3,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:28:3,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:28:4,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:28:5,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:28:6,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:28:8,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:28:8,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:28:14,test1,test2
+2022-12-02,8:28:17,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:28:17,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:28:18,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:28:18,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:28:19,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:28:21,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:28:22,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:28:27,test1,test2
+2022-12-02,8:28:30,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:28:31,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:28:31,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:28:32,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:28:33,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:28:35,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:28:35,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:28:41,test1,test2
+2022-12-02,8:28:44,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:28:44,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:28:44,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:28:45,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:28:46,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:28:48,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:28:49,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:28:54,test1,test2
+2022-12-02,8:28:57,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:28:57,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:28:58,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:28:58,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:29:0,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:29:1,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:29:2,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:29:7,test1,test2
+2022-12-02,8:29:11,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:29:11,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:29:12,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:29:12,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:29:13,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:29:15,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:29:16,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:29:21,test1,test2
+2022-12-02,8:29:24,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:29:25,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:29:25,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:29:26,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:29:27,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:29:29,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:29:29,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:29:35,test1,test2
+2022-12-02,8:29:38,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:29:38,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:29:39,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:29:39,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:29:40,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:29:42,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:29:43,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:29:48,test1,test2
+2022-12-02,8:29:51,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:29:52,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:29:52,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:29:53,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:29:54,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:29:56,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:29:56,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:30:2,test1,test2
+2022-12-02,8:30:5,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:30:6,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:30:6,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:30:6,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:30:8,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:30:10,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:30:10,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:30:16,test1,test2
+2022-12-02,8:30:19,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:30:19,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:30:20,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:30:20,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:30:22,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:30:24,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:30:24,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:30:30,test1,test2
+2022-12-02,8:30:33,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:30:33,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:30:34,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:30:34,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:30:35,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:30:37,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:30:38,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:30:43,test1,test2
+2022-12-02,8:30:46,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:30:47,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:30:47,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:30:48,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:30:49,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:30:51,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:30:52,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:30:57,test1,test2
+2022-12-02,8:31:0,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:31:1,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:31:1,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:31:2,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:31:3,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:31:5,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:31:5,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:31:11,test1,test2
+2022-12-02,8:31:14,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:31:14,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:31:15,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:31:15,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:31:16,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:31:18,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:31:19,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:31:24,test1,test2
+2022-12-02,8:31:28,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:31:28,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:31:28,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:31:29,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:31:30,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:31:32,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:31:33,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:31:38,test1,test2
+2022-12-02,8:31:41,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:31:42,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:31:42,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:31:43,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:31:44,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:31:46,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:31:46,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:31:52,test1,test2
+2022-12-02,8:31:55,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:31:55,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:31:56,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:31:56,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:31:57,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:31:59,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:32:0,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:32:5,test1,test2
+2022-12-02,8:32:8,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:32:9,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:32:9,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:32:10,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:32:11,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:32:13,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:32:14,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:32:19,test1,test2
+2022-12-02,8:32:22,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:32:23,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:32:23,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:32:24,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:32:25,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:32:27,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:32:27,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:32:33,test1,test2
+2022-12-02,8:32:36,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:32:36,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:32:37,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:32:37,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:32:38,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:32:40,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:32:41,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:32:46,test1,test2
+2022-12-02,8:32:49,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:32:50,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:32:50,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:32:51,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:32:52,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:32:54,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:32:54,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:33:0,test1,test2
+2022-12-02,8:33:3,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:33:4,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:33:4,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:33:5,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:33:6,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:33:8,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:33:8,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:33:14,test1,test2
+2022-12-02,8:33:17,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:33:17,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:33:18,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:33:18,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:33:19,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:33:21,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:33:22,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:33:27,test1,test2
+2022-12-02,8:33:30,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:33:31,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:33:31,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:33:32,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:33:33,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:33:35,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:33:36,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:33:41,test1,test2
+2022-12-02,8:33:44,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:33:45,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:33:45,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:33:46,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:33:47,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:33:49,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:33:49,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:33:55,test1,test2
+2022-12-02,8:33:58,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:33:58,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:33:59,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:33:59,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:34:0,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:34:2,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:34:3,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:34:8,test1,test2
+2022-12-02,8:34:12,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:34:12,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:34:12,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:34:13,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:34:14,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:34:16,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:34:17,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:34:22,test1,test2
+2022-12-02,8:34:25,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:34:26,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:34:26,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:34:26,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:34:28,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:34:30,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:34:30,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:34:35,test1,test2
+2022-12-02,8:34:39,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:34:39,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:34:40,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:34:40,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:34:41,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:34:43,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:34:44,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:34:49,test1,test2
+2022-12-02,8:34:52,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:34:53,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:34:53,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:34:53,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:34:55,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:34:57,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:34:57,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:35:3,test1,test2
+2022-12-02,8:35:6,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:35:6,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:35:7,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:35:7,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:35:8,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:35:10,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:35:11,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:35:16,test1,test2
+2022-12-02,8:35:19,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:35:19,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:35:20,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:35:20,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:35:22,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:35:24,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:35:24,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:35:30,test1,test2
+2022-12-02,8:35:33,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:35:33,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:35:34,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:35:34,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:35:35,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:35:37,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:35:38,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:35:43,test1,test2
+2022-12-02,8:35:46,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:35:47,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:35:47,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:35:48,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:35:49,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:35:51,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:35:51,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:35:57,test1,test2
+2022-12-02,8:36:0,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:36:0,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:36:1,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:36:1,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:36:3,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:36:5,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:36:5,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:36:10,test1,test2
+2022-12-02,8:36:14,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:36:14,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:36:15,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:36:15,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:36:16,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:36:18,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:36:19,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:36:24,test1,test2
+2022-12-02,8:36:27,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:36:28,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:36:28,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:36:29,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:36:30,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:36:32,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:36:32,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:36:38,test1,test2
+2022-12-02,8:36:41,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:36:41,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:36:42,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:36:42,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:36:44,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:36:46,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:36:46,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:36:51,test1,test2
+2022-12-02,8:36:55,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:36:55,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:36:56,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:36:56,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:36:57,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:36:59,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:37:0,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:37:5,test1,test2
+2022-12-02,8:37:8,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:37:9,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:37:9,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:37:10,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:37:11,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:37:13,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:37:14,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:37:19,test1,test2
+2022-12-02,8:37:22,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:37:22,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:37:23,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:37:23,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:37:25,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:37:27,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:37:27,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:37:33,test1,test2
+2022-12-02,8:37:36,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:37:36,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:37:37,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:37:37,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:37:38,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:37:40,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:37:41,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:37:46,test1,test2
+2022-12-02,8:37:49,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:37:50,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:37:50,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:37:51,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:37:52,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:37:54,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:37:54,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:38:0,test1,test2
+2022-12-02,8:38:3,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:38:3,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:38:4,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:38:4,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:38:5,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:38:7,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:38:8,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:38:13,test1,test2
+2022-12-02,8:38:17,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:38:17,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:38:17,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:38:18,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:38:19,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:38:21,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:38:21,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:38:27,test1,test2
+2022-12-02,8:38:30,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:38:31,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:38:31,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:38:31,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:38:33,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:38:35,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:38:35,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:38:40,test1,test2
+2022-12-02,8:38:44,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:38:44,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:38:45,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:38:45,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:38:46,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:38:48,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:38:49,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:38:54,test1,test2
+2022-12-02,8:38:57,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:38:58,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:38:58,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:38:59,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:39:0,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:39:2,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:39:3,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:39:8,test1,test2
+2022-12-02,8:39:11,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:39:12,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:39:12,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:39:13,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:39:14,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:39:16,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:39:16,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:39:22,test1,test2
+2022-12-02,8:39:25,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:39:25,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:39:26,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:39:26,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:39:28,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:39:29,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:39:30,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:39:35,test1,test2
+2022-12-02,8:39:38,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:39:39,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:39:39,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:39:40,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:39:41,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:39:43,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:39:44,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:39:49,test1,test2
+2022-12-02,8:39:52,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:39:53,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:39:53,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:39:54,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:39:55,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:39:57,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:39:57,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:40:3,test1,test2
+2022-12-02,8:40:6,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:40:6,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:40:7,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:40:7,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:40:9,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:40:10,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:40:11,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:40:16,test1,test2
+2022-12-02,8:40:20,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:40:20,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:40:21,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:40:21,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:40:22,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:40:24,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:40:25,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:40:30,test1,test2
+2022-12-02,8:40:34,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:40:34,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:40:34,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:40:35,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:40:36,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:40:38,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:40:39,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:40:44,test1,test2
+2022-12-02,8:40:47,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:40:48,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:40:48,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:40:49,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:40:50,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:40:52,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:40:52,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:40:58,test1,test2
+2022-12-02,8:41:1,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:41:2,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:41:2,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:41:3,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:41:4,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:41:6,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:41:6,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:41:12,test1,test2
+2022-12-02,8:41:15,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:41:15,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:41:16,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:41:16,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:41:18,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:41:20,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:41:20,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:41:25,test1,test2
+2022-12-02,8:41:29,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:41:29,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:41:30,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:41:30,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:41:31,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:41:33,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:41:34,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:41:39,test1,test2
+2022-12-02,8:41:42,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:41:43,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:41:43,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:41:44,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:41:45,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:41:47,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:41:48,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:41:53,test1,test2
+2022-12-02,8:41:56,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:41:57,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:41:57,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:41:58,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:41:59,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:42:1,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:42:1,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:42:7,test1,test2
+2022-12-02,8:42:10,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:42:10,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:42:11,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:42:11,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:42:13,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:42:14,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:42:15,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:42:20,test1,test2
+2022-12-02,8:42:23,False,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:42:34,test1,test2
+2022-12-02,8:42:35,True,UPLOADING NEW FOLDER: FolderStructure_with_files in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:42:37,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:42:37,True,UPLOADING NEW FOLDER: TestSubfolder_1 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:42:38,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:42:38,True,UPLOADING NEW FOLDER: TestSubfolder_2 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:42:40,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:42:40,True,UPLOADING NEW FOLDER: TestSubfolder_3 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:42:41,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:42:41,True,UPLOADING NEW FOLDER: TestSubfolder_4 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:42:42,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:42:42,True,UPLOADING NEW FOLDER: TestSubfolder_5 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:42:44,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:42:44,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:43:5,True,UPLOADING NEW FOLDER: FolderStructure_with_files in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:43:6,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:43:6,True,UPLOADING NEW FOLDER: TestSubfolder_1 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:43:8,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:43:8,True,UPLOADING NEW FOLDER: TestSubfolder_2 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:43:9,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:43:9,True,UPLOADING NEW FOLDER: TestSubfolder_3 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:43:10,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:43:11,True,UPLOADING NEW FOLDER: TestSubfolder_4 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:43:12,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:43:12,True,UPLOADING NEW FOLDER: TestSubfolder_5 in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:43:13,True,Folder was uploaded SUCCESSFULLY.
+2022-12-02,8:43:14,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:43:22,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:43:29,True,UPLOADING NEW FILE: EmptyFile.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:43:31,True,SUCCESSFUL UPLOAD: EmptyFile.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:43:37,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:43:44,True,UPLOADING NEW FILE: bigfile-100MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:43:49,True,SUCCESSFUL UPLOAD: bigfile-100MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:43:56,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:44:2,True,UPLOADING NEW FILE: bigfile-500MB .csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:44:26,True,SUCCESSFUL UPLOAD: bigfile-500MB .csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:44:32,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:44:39,True,UPLOADING NEW FILE: bigfile-50MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:44:42,True,SUCCESSFUL UPLOAD: bigfile-50MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:44:49,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:44:56,True,UPLOADING NEW FILE: bigfile-10MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:44:58,True,SUCCESSFUL UPLOAD: bigfile-10MB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:45:4,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:45:11,True,UPLOADING NEW FILE: bigfile-1GB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:45:52,True,SUCCESSFUL UPLOAD: bigfile-1GB.csv in C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:45:59,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:46:8,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:46:8,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:46:9,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:46:10,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:46:11,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:46:11,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:46:13,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:46:22,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:46:23,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:46:24,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:46:25,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:46:25,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:46:26,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:46:28,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:46:37,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:46:37,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:46:38,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:46:39,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:46:40,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:46:40,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:46:42,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:46:51,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:46:51,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:46:52,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:46:53,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:46:54,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:46:54,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,8:46:56,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder
+2022-12-02,8:47:5,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,8:47:5,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,8:47:6,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,8:47:7,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,8:47:8,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,8:47:8,True,COMPARING: C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,9:16:5,True,UPLOADING NEW FOLDER: ,FolderStructure_with_files,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,9:16:7,True,Folder was uploaded SUCCESSFULLY.,FolderStructure_with_files,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,9:16:7,True,UPLOADING NEW FOLDER: ,TestSubfolder_1,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,9:16:8,True,Folder was uploaded SUCCESSFULLY.,TestSubfolder_1,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,9:16:8,True,UPLOADING NEW FOLDER: ,TestSubfolder_2,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,9:16:10,True,Folder was uploaded SUCCESSFULLY.,TestSubfolder_2,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,9:16:10,True,UPLOADING NEW FOLDER: ,TestSubfolder_3,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,9:16:11,True,Folder was uploaded SUCCESSFULLY.,TestSubfolder_3,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,9:16:11,True,UPLOADING NEW FOLDER: ,TestSubfolder_4,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,9:16:13,True,Folder was uploaded SUCCESSFULLY.,TestSubfolder_4,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,9:16:13,True,UPLOADING NEW FOLDER: ,TestSubfolder_5,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,9:16:14,True,Folder was uploaded SUCCESSFULLY.,TestSubfolder_5,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,9:17:4,True,UPLOADING NEW FOLDER: ,FolderStructure_with_files,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,9:17:6,True,Folder was uploaded SUCCESSFULLY.,FolderStructure_with_files,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,9:17:6,True,UPLOADING NEW FOLDER: ,TestSubfolder_1,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,9:17:7,True,Folder was uploaded SUCCESSFULLY.,TestSubfolder_1,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,9:17:7,True,UPLOADING NEW FOLDER: ,TestSubfolder_2,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,9:17:8,True,Folder was uploaded SUCCESSFULLY.,TestSubfolder_2,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,9:17:9,True,UPLOADING NEW FOLDER: ,TestSubfolder_3,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,9:17:10,True,Folder was uploaded SUCCESSFULLY.,TestSubfolder_3,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,9:17:10,True,UPLOADING NEW FOLDER: ,TestSubfolder_4,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,9:17:11,True,Folder was uploaded SUCCESSFULLY.,TestSubfolder_4,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,9:17:11,True,UPLOADING NEW FOLDER: ,TestSubfolder_5,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,9:17:13,True,Folder was uploaded SUCCESSFULLY.,TestSubfolder_5,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,9:17:13,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder,
+2022-12-02,9:17:22,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files,
+2022-12-02,9:17:28,True,UPLOADING NEW FILE,bigfile-1GB.csv,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,9:18:51,True,SUCCESSFUL UPLOAD,bigfile-1GB.csv,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files
+2022-12-02,9:18:58,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3,
+2022-12-02,9:19:4,True,UPLOADING NEW FILE,bigfile-50MB.csv,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,9:19:8,True,SUCCESSFUL UPLOAD,bigfile-50MB.csv,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3
+2022-12-02,9:19:15,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1,
+2022-12-02,9:19:21,True,UPLOADING NEW FILE,bigfile-500MB .csv,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,9:19:39,True,SUCCESSFUL UPLOAD,bigfile-500MB .csv,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1
+2022-12-02,9:19:45,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2,
+2022-12-02,9:19:52,True,UPLOADING NEW FILE,bigfile-100MB.csv,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,9:19:57,True,SUCCESSFUL UPLOAD,bigfile-100MB.csv,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2
+2022-12-02,9:20:3,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5,
+2022-12-02,9:20:10,True,UPLOADING NEW FILE,EmptyFile.csv,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,9:20:12,True,SUCCESSFUL UPLOAD,EmptyFile.csv,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5
+2022-12-02,9:20:18,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4,
+2022-12-02,9:20:25,True,UPLOADING NEW FILE,bigfile-10MB.csv,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,9:20:27,True,SUCCESSFUL UPLOAD,bigfile-10MB.csv,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4
+2022-12-02,9:20:34,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder,
+2022-12-02,9:20:42,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files,
+2022-12-02,9:20:44,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3,
+2022-12-02,9:20:45,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1,
+2022-12-02,9:20:46,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2,
+2022-12-02,9:20:46,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5,
+2022-12-02,9:20:47,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4,
+2022-12-02,9:20:47,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder,
+2022-12-02,9:20:56,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files,
+2022-12-02,9:20:58,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3,
+2022-12-02,9:20:58,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1,
+2022-12-02,9:21:0,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2,
+2022-12-02,9:21:0,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5,
+2022-12-02,9:21:1,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4,
+2022-12-02,9:21:1,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder,
+2022-12-02,9:21:10,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files,
+2022-12-02,9:21:12,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3,
+2022-12-02,9:21:13,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1,
+2022-12-02,9:21:14,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2,
+2022-12-02,9:21:14,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5,
+2022-12-02,9:21:15,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4,
+2022-12-02,9:21:15,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder,
+2022-12-02,9:21:24,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files,
+2022-12-02,9:21:25,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3,
+2022-12-02,9:21:26,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1,
+2022-12-02,9:21:27,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2,
+2022-12-02,9:21:28,True,COMPARING: ,C:\Users\tnejedly\Desktop\Script29_11\UploadFolder\FolderStructure_with_files\TestSubfolder_1\TestSubfolder_2\TestSubfolder_3\TestSubfolder_4\TestSubfolder_5,

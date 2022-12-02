@@ -1,0 +1,33 @@
+
+========================================================================================================================================================================================================================
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+******************************************************** this file describe the procedures needed for setup all needed libraries to automate the setup process *********************************************************
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+========================================================================================================================================================================================================================
+
+Pre-Requiests 
+
+* Windows 10 Should be Installed on the Target Machine  
+* The Internet Connection Must be stable
+
+
+The " pylibs " Folder consists of the following files 
+
+ 1. download python and install.ps1 --> used to run the script.py automatically 
+ 2. libs setup.ps1 --> the script that write the installation commands into the setup.bat file
+ 
+
+ Now you know the structure of the " pylibs " folder
+ 
+ please follow the next procedures to automate the setup process 
+ 
+ 1. Right click on the download python and install.ps1  and choose Run with PowerShell , if the OS asked you to about change the default poliocy setting please press Y to Continue the process 
+ 1.1 wait untill the python download completed and wait untill the OS show you setup window once its appered press Yes 
+ 1.3 you will find message "" press any key to continue 		
+ 2. Right click on the libs setup.ps1 and choose Run with PowerShell
+ 2.1 wait untill python libraries completed , then the window will be closed 
+ 
+**********************************************************************************************
+* Please open the pictures "1.PNG" and "2.PNG" it's simple description of the whole process  *
+**********************************************************************************************
+ 
